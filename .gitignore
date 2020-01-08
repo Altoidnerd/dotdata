@@ -130,3 +130,4 @@ dmypy.json
 LICENSE
 README.md
 data/*.csv
+data/*.pkl
