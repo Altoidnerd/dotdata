@@ -1,5 +1,5 @@
 # dotdata ML task
-
+![scrot](./figs/tip_frac_distribution.png "")
 ##Data Science Use Case
 
 ##Data
